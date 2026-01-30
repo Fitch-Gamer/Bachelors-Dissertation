@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ASPReact/aspreact.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
