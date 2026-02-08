@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="ASPReact/aspreact.esproj">
+  <Project Path="aspreact.client/aspreact.client.esproj">
     <Build />
     <Deploy />
   </Project>
+  <Project Path="ASPReact.Server/ASPReact.Server.csproj" />
 </Solution>

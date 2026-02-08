@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51778",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\ASPReact.Server\\..\\aspreact.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
