@@ -22,10 +22,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Explicitly specify the HTTPS port used for redirects (match your launchSettings.json https profile port)
-app.UseHttpsRedirection(new Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionOptions
-{
-    HttpsPort = 7236
-});
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
