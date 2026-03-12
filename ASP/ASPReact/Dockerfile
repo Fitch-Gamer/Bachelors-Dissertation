@@ -13,9 +13,9 @@ RUN npm run build
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS server-build
 WORKDIR /src
 
-# Copy server project and the JS project reference used by the server csproj
+# Copy server project and full client directory (JS SDK targets require package.json at minimum)
 COPY ASPReact.Server/ ASPReact.Server/
-COPY aspreact.client/aspreact.client.esproj aspreact.client/
+COPY aspreact.client/ aspreact.client/
 
 # Copy built frontend into server static assets
 COPY --from=client-build /src/aspreact.client/dist ./ASPReact.Server/wwwroot
