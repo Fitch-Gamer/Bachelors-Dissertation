@@ -29,10 +29,10 @@ C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Ser
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\ASPReact.2E1CF8D3.Up2Date
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\ASPReact.Server.dll
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\refint\ASPReact.Server.dll
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\ASPReact.Server.pdb
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\ASPReact.Server.genruntimeconfig.cache
 C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\ref\ASPReact.Server.dll
+C:\Users\Finley\Desktop\BA diss\Bachelors-Dissertation\ASP\ASPReact\ASPReact.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
