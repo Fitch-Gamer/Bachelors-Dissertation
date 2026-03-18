@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\contexttest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\contexttest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\codeinfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\codeinfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\webexfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\webexfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\contexttest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\contexttest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\webexfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\webexfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\hooks\\usedocumenttitle.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\hooks\\usedocumenttitle.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224DC2AF-6FBC-74E0-498E-E315B4D8E706}|ASPReact.Server\\ASPReact.Server.csproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224DC2AF-6FBC-74E0-498E-E315B4D8E706}|ASPReact.Server\\ASPReact.Server.csproj|solutionrelative:aspreact.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\codeinfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\codeinfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224DC2AF-6FBC-74E0-498E-E315B4D8E706}|ASPReact.Server\\ASPReact.Server.csproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.server\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,8 +72,35 @@
         },
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "aspreact.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\main.tsx",
+              "RelativeToolTip": "aspreact.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T16:02:11.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "useDocumentTitle.ts",
+              "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\hooks\\useDocumentTitle.ts",
+              "RelativeDocumentMoniker": "aspreact.client\\src\\hooks\\useDocumentTitle.ts",
+              "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\hooks\\useDocumentTitle.ts",
+              "RelativeToolTip": "aspreact.client\\src\\hooks\\useDocumentTitle.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T12:46:12.418Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -76,35 +111,38 @@
               "RelativeToolTip": "aspreact.client\\src\\pages\\ImageTest.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-13T00:05:18.534Z"
+              "WhenOpened": "2026-03-13T00:05:18.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WebExfiltrationTest.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\WebExfiltrationTest.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\WebExfiltrationTest.tsx",
               "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\WebExfiltrationTest.tsx",
               "RelativeToolTip": "aspreact.client\\src\\pages\\WebExfiltrationTest.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-13T00:05:14.194Z"
+              "WhenOpened": "2026-03-13T00:05:14.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "CodeInfiltrationTest.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\CodeInfiltrationTest.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\CodeInfiltrationTest.tsx",
               "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\CodeInfiltrationTest.tsx",
               "RelativeToolTip": "aspreact.client\\src\\pages\\CodeInfiltrationTest.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-13T00:05:10.158Z"
+              "WhenOpened": "2026-03-13T00:05:10.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ContextTest.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\ContextTest.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\ContextTest.tsx",
@@ -117,31 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\main.tsx",
-              "RelativeDocumentMoniker": "aspreact.client\\src\\main.tsx",
-              "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\main.tsx",
-              "RelativeToolTip": "aspreact.client\\src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-12T16:02:11.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\App.tsx",
               "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\App.tsx",
               "RelativeToolTip": "aspreact.client\\src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-01T21:52:31.893Z"
+              "WhenOpened": "2026-02-01T21:52:31.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\index.css",
               "RelativeDocumentMoniker": "aspreact.client\\src\\index.css",
@@ -149,7 +176,21 @@
               "RelativeToolTip": "aspreact.client\\src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-12T16:02:10.774Z"
+              "WhenOpened": "2026-02-12T16:02:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\index.tsx",
+              "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\index.tsx",
+              "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\index.tsx",
+              "RelativeToolTip": "aspreact.client\\src\\pages\\index.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T13:23:00.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -161,11 +202,12 @@
               "RelativeToolTip": "ASPReact.Server\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T22:04:50.119Z"
+              "WhenOpened": "2026-02-01T22:04:50.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\ASPReact.Server\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "ASPReact.Server\\Middleware\\RequestLoggingMiddleware.cs",
@@ -177,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\ASPReact.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ASPReact.Server\\Controllers\\WeatherForecastController.cs",

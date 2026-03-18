@@ -3,11 +3,13 @@ import ImageTest from './pages/ImageTest';
 import WebExfiltrationTest from './pages/WebExfiltrationTest';
 import CodeInfiltrationTest from './pages/CodeInfiltrationTest';
 import ContextTest from './pages/ContextTest';
+import Index from './pages/index';
+import VariablePage from './pages/VariablePage';
 
 function App() {
+    const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
 
     function renderPage() {
-        const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
         switch (path) {
             case '/image-test':
                 return <ImageTest />;
@@ -17,19 +19,10 @@ function App() {
                 return <CodeInfiltrationTest />;
             case '/context-test':
                 return <ContextTest />;
+            case '/variable-page-test':
+                return <VariablePage/>;
             default:
-                return (
-                    <div>
-                        <h2>Tests</h2>
-                        <p>Select a test page below:</p>
-                        <ul>
-                            <li><a href="/image-test">Image test</a></li>
-                            <li><a href="/web-exfiltration-test">Web exfiltration test</a></li>
-                            <li><a href="/code-infiltration-test">Code infiltration test</a></li>
-                            <li><a href="/context-test">Context test</a></li>
-                        </ul>
-                    </div>
-                );
+                return <Index />;
         }
     }
 
