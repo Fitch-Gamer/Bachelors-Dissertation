@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function VariablePage() {
