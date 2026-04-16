@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f9c716cb0518eea2eb77ddd2db57036b7b7576d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e18d52412b762ea46c008ff70f70569d1f9f2daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

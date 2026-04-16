@@ -5,12 +5,16 @@ import CodeInfiltrationTest from './pages/CodeInfiltrationTest';
 import ContextTest from './pages/ContextTest';
 import Index from './pages/index';
 import VariablePage from './pages/VariablePage';
+import SimpleTest from './pages/SimpleTest';
+
 
 function App() {
     const path = window.location.pathname.replace(/\/+$/, ''); // trim trailing slash
 
     function renderPage() {
         switch (path) {
+            case '/simple-test':
+                return <SimpleTest />;
             case '/image-test':
                 return <ImageTest />;
             case '/web-exfiltration-test':

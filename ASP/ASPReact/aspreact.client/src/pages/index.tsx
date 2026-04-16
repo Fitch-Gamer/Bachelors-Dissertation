@@ -9,6 +9,7 @@ export default function Index() {
             <p>Select a test page below:</p>
             <ul>
                 <li><a href="/image-test">Image test</a></li>
+                <li><a href="/simple-test">Simple test</a></li>
                 <li><a href="/web-exfiltration-test">Web exfiltration test</a></li>
                 <li><a href="/code-infiltration-test">Code infiltration test</a></li>
                 <li><a href="/context-test">Context test</a></li>
