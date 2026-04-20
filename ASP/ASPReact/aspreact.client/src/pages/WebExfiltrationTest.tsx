@@ -1,4 +1,3 @@
-import { useMemo } from 'react';
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function WebExfiltrationTest() {
