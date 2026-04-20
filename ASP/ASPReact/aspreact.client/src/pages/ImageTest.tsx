@@ -1,7 +1,7 @@
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function ImageTest() {
-    useDocumentTitle('Image Test — ASPReact');
+    useDocumentTitle('ASPReact');
 
     return (
         <div>

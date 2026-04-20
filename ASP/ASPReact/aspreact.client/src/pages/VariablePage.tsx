@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function VariablePage() {
-    useDocumentTitle('Variable Page Test — ASPReact');
+    useDocumentTitle('ASPReact');
 
     const [userAgent, setUserAgent] = useState<string>('unknown');
 

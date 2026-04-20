@@ -8,12 +8,12 @@ export default function Index() {
             <h2>Tests</h2>
             <p>Select a test page below:</p>
             <ul>
-                <li><a href="/image-test">Image test</a></li>
-                <li><a href="/simple-test">Simple test</a></li>
-                <li><a href="/web-exfiltration-test">Web exfiltration test</a></li>
-                <li><a href="/code-infiltration-test">Code infiltration test</a></li>
-                <li><a href="/context-test">Context test</a></li>
-                <li><a href="/variable-page-test">variable page test</a></li>
+                <li><a href="/2">Image test</a></li>
+                <li><a href="/1">Simple test</a></li>
+                <li><a href="/3">Web exfiltration test</a></li>
+                <li><a href="/4">Code infiltration test</a></li>
+                <li><a href="/5">Context test</a></li>
+                <li><a href="/6">variable page test</a></li>
 
             </ul>
         </div>

@@ -13,17 +13,17 @@ function App() {
 
     function renderPage() {
         switch (path) {
-            case '/simple-test':
+            case '/1':
                 return <SimpleTest />;
-            case '/image-test':
+            case '/2':
                 return <ImageTest />;
-            case '/web-exfiltration-test':
+            case '/3':
                 return <WebExfiltrationTest />;
-            case '/code-infiltration-test':
+            case '/4':
                 return <CodeInfiltrationTest />;
-            case '/context-test':
+            case '/5':
                 return <ContextTest />;
-            case '/variable-page-test':
+            case '/6':
                 return <VariablePage/>;
             default:
                 return <Index />;

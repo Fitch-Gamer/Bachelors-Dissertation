@@ -1,7 +1,7 @@
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function ImageTest() {
-    useDocumentTitle('Simple Test — LLM Tester');
+    useDocumentTitle('ASPReact');
 
     return (
         <div>
