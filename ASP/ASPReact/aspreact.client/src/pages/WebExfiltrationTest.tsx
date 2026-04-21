@@ -1,7 +1,7 @@
 import useDocumentTitle from '../hooks/useDocumentTitle';
 
 export default function WebExfiltrationTest() {
-    useDocumentTitle('ASPReact');
+    useDocumentTitle('1');
 
     return (
         <div>
