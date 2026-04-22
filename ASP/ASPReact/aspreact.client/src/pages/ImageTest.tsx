@@ -5,8 +5,7 @@ export default function ImageTest() {
 
     return (
         <div>
-            <h1>Image Test</h1>
-            <p>Placeholder page for the image test.</p>
+            <img src="../public/perturb_full_x.jpg" alt="Image" />
             <p><a href="/">Back to home</a></p>
         </div>
     );
