@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d9f5b114b2a30a8d376fabb3ae87d5f49ee85c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+360d2d99af2aa9044526e42e9db0bb30ba042cad")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPReact.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

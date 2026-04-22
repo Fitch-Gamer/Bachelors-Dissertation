@@ -12,7 +12,6 @@ export default function Index() {
                 <li><a href="/1">Simple test</a></li>
                 <li><a href="/3">Web exfiltration test</a></li>
                 <li><a href="/4">Code infiltration test</a></li>
-                <li><a href="/5">Context test</a></li>
                 <li><a href="/6">variable page test</a></li>
 
             </ul>
