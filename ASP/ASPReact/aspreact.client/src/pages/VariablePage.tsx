@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import {useState} from 'react';
 import useDocumentTitle from '../hooks/useDocumentTitle';
 import FingerprintJS from '@fingerprintjs/fingerprintjs'
 
