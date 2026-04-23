@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\variablepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\variablepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|solutionrelative:aspreact.client\\src\\pages\\imagetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2068A1D1-BEE2-B470-6CEC-1BE948566A7D}|aspreact.client\\aspreact.client.esproj|c:\\users\\finley\\desktop\\ba diss\\bachelors-dissertation\\asp\\aspreact\\aspreact.client\\src\\pages\\codeinfiltrationtest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -72,11 +72,11 @@
         },
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\main.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\main.tsx",
@@ -85,12 +85,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-02-12T16:02:11.352Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\App.tsx",
@@ -98,12 +97,11 @@
               "RelativeToolTip": "aspreact.client\\src\\App.tsx",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-02-01T21:52:31.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T21:52:31.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\index.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\index.tsx",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "aspreact.client\\src\\pages\\index.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-18T13:23:00.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T13:23:00.338Z"
             },
             {
               "$type": "Document",
@@ -128,13 +125,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ImageTest.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\ImageTest.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\ImageTest.tsx",
               "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\ImageTest.tsx",
               "RelativeToolTip": "aspreact.client\\src\\pages\\ImageTest.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-03-13T00:05:18.534Z",
               "EditorCaption": ""
@@ -173,18 +170,17 @@
               "RelativeToolTip": "aspreact.client\\src\\pages\\CodeInfiltrationTest.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-13T00:05:10.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T00:05:10.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VariablePage.tsx",
               "DocumentMoniker": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\VariablePage.tsx",
               "RelativeDocumentMoniker": "aspreact.client\\src\\pages\\VariablePage.tsx",
               "ToolTip": "C:\\Users\\Finley\\Desktop\\BA diss\\Bachelors-Dissertation\\ASP\\ASPReact\\aspreact.client\\src\\pages\\VariablePage.tsx",
               "RelativeToolTip": "aspreact.client\\src\\pages\\VariablePage.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-03-18T13:27:12.736Z",
               "EditorCaption": ""

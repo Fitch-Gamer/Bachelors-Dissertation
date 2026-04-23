@@ -8,6 +8,8 @@ export default function VariablePage() {
     const fpPromise = FingerprintJS.load();
     const AI_identifiers = [ //hard coded currently but could be migrated to a database
         'test', //test
+        '8c78462abcf97a4c9b0988e2f2382b8b', //qwen
+        '8c78462abcf97a4c9b0988e2f2382b8b', //gemma
     ];
 
     const [userId, setUserId] = useState<string>('unknown');
